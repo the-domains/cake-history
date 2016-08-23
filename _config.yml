@@ -1,0 +1,14 @@
+layout_spectrum: 0.9371123560704291
+typography_spectrum: 0.12636157171800733
+color:
+  brandStrength: 0.4931460125371814
+  lightness: 0.23258474725298584
+  saturation: 0.4532381894532591
+  rhythmicContrast: 0.8335545505397022
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: cake history
